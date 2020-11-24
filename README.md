@@ -26,7 +26,7 @@ The model was trained using song samples from 10 different music genres:
 
 ### How to test it
 
-You need to install the following [requisites]. We suggest you create a virtual environment and install the requirements by using:
+You need to install the following [requirements](https://github.com/MrManu96/Music-Recommendation-System/blob/main/requirements.txt). We suggest you create a virtual environment and install the requirements by using:
 **pip install -r requirements.txt**.
 
 After you install all the requirements and download our project, fill the music folder with songs you like and fill list_example.txt with their names.
