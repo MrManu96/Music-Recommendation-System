@@ -22,7 +22,7 @@ The model was trained using song samples from 10 different music genres:
 9) Reggae
 10) Rock
 
-- Poster
+- [Poster](https://github.com/MrManu96/Music-Recommendation-System/blob/main/Proyecto%20-%20AI.pdf)
 
 ### How to test it
 
